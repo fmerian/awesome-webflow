@@ -47,6 +47,7 @@
 - [Bolden Ventures - Decentralize. Create. Revolutionize. (2020)](https://www.bolden.ventures/?ref=awesome-webflow)
 - [Heartcore - Investing in happiness. (2021)](https://www.heartcore.com/?ref=awesome-webflow)
 - [sa.design - Crafting Unique Web & Brand Design (2021)](https://www.sa-design.co/?ref=awesome-webflow)
+- [Bucket - Feature flags crafted for speed (2025)](https://bucket.co/?ref=awesome-webflow)
 
 ## Contribute
 
